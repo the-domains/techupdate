@@ -1,0 +1,14 @@
+layout_spectrum: 0.3243728
+color:
+  saturation: 0.9086022
+  brandStrength: 0.9265233
+  lightness: 0.8405018
+  brandColors:
+    - '#164242'
+    - '#FFFFFF'
+    - '#71A01C'
+    - '#FF6600'
+    - '#4889F4'
+  rhythmicContrast: 1
+typography_spectrum: 0.003584229
+name: TechUpdate
