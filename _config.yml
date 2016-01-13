@@ -1,14 +1,28 @@
-layout_spectrum: 0.3243728
-color:
-  saturation: 0.9086022
-  brandStrength: 0.9265233
-  lightness: 0.8405018
-  brandColors:
-    - '#164242'
-    - '#FFFFFF'
-    - '#71A01C'
-    - '#FF6600'
-    - '#4889F4'
-  rhythmicContrast: 1
-typography_spectrum: 0.003584229
 name: TechUpdate
+favicon: null
+layout_spectrum: 0.11998
+typography_spectrum: 0.003584229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1e1e1e'
+    - '#ffffff'
+    - '#5a5958'
+    - '#49def8'
+    - '#f70471'
+  brandStrength: 0.9375
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.75
+purpose: []
