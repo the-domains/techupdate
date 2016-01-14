@@ -1,28 +1,40 @@
-name: TechUpdate
 favicon: null
-layout_spectrum: 0.91718
-typography_spectrum: 0.003584229
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TechUpdate
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6935484
+  lightness: 0.3835126
+  brandStrength: 0.7060932
   brandColors:
     - '#ffffff'
     - '#434341'
     - '#babec7'
     - '#060604'
     - '#a27151'
-  brandStrength: 0.1875
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.2759857
+typography_spectrum: 0.003584229
+layout_spectrum: 0.6397849
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
